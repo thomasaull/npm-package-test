@@ -8,5 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://git.db-n.com/soliver/design-system/npm-package.git",
+    "directory": "default"
+  }
 }
